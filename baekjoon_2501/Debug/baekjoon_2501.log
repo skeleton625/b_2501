@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  baekjoon_2501.vcxproj -> D:\Programs\Source\baekjoon_2501\Debug\baekjoon_2501.exe
+d:\programs\source\baekjoon_2501\baekjoon_2501\main.cpp(6): error C4700: 초기화되지 않은 'n' 지역 변수를 사용했습니다.
